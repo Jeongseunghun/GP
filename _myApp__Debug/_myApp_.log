@@ -1,0 +1,17 @@
+﻿Build started 2021-04-16 오전 3:34:41.
+     1>Project "D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\build\vs2013\_myApp_.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"_myApp__Debug\\" /Fd"_myApp__Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "엘리먼트버퍼,텍스처.cpp"
+         엘리먼트버퍼,텍스처.cpp
+     1>d:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\include\sb6.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>d:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\build\vs2013\엘리먼트버퍼,텍스처.cpp(165): warning C4244: 'initializing' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>d:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\build\vs2013\엘리먼트버퍼,텍스처.cpp(173): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\bin\_myApp__dbg.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\bin\_myApp__dbg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\bin\_myApp__dbg.lib" /MACHINE:X86 _myApp__Debug\_myApp_.res
+         "_myApp__Debug\엘리먼트버퍼,텍스처.obj"
+         _myApp_.vcxproj -> D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\bin\_myApp__dbg.exe
+     1>Done Building Project "D:\바탕화면\글미\글미 3-1\그래픽스 플밍\sb6code-sample\sb6code-sample\build\vs2013\_myApp_.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.47
